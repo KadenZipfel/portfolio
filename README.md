@@ -1,1 +1,3 @@
-# (kadenzipfel.com)[My Webdev Portfolio]
+# My Webdev Portfolio
+
+[View here](http://kadenzipfel.com)
