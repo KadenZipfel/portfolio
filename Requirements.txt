@@ -1,0 +1,3 @@
+* Fix code icon so it's perfectly centered
+* Fix sandwich menu functionality
+* Add new work to portfolio
