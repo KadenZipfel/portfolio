@@ -1,3 +1,4 @@
 * Fix sandwich menu functionality
 * Add new work to portfolio
-* Fill in about page
+* Edit about page
+* Refactor

@@ -107,7 +107,7 @@ a:hover {
 @keyframes itemLoad {
 	85% {
 		opacity: 1;
-		transform: scale(1.05);
+		transform: scale(1.01);
 	}
 	100% {
 		transform: scale(1);
@@ -187,13 +187,9 @@ p {
 
 
 .contact-call {
-	margin: 0;
-	position: absolute;
-	top: 30%;
-	left: 50%;
-	margin-right: -50%;
-	font-size: 1.2em;
-	transform: translate(-50%, -30%);
+	padding-top: 10px;
+	justify-content: center;
+	align-items: center;
 	animation: 1s loadCall 0.5s forwards;
 }
 
